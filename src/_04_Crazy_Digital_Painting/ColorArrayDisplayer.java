@@ -12,6 +12,7 @@ import javax.swing.JLabel;
  */
 
 public class ColorArrayDisplayer {
+
     public static void displayColorsAsImage(Color[][] colors) {
         JFrame window = new JFrame();
         JLabel label = new JLabel();
